@@ -4,6 +4,7 @@
 void initWIFI() {
   WiFi.mode(WIFI_STA);
   wifiMulti.addAP("DATADATA", "1234test");
+  wifiMulti.addAP("HOME", "verygoodpassword");
  // wifiMulti.addAP("ssid1", "your password2");
   //  add more if needed  wifiMulti.addAP("ssid1", "your password2");
   int n = WiFi.scanNetworks();

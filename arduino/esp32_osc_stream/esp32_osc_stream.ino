@@ -15,7 +15,7 @@ AsyncUDP udpOut;
 void setup() {
   Serial.begin(115200);
   Serial.print("esp32 osc stream demo:");
-  initWIFI();
+  initWIFI(); // connect to wifi
 }
 
 void loop() {

@@ -1,6 +1,6 @@
 void sendDataOSC() {
   AsyncUDPMessage udpMsg;
-  OSCMessage oscMsg("/knob");
+  OSCMessage oscMsg("/knobralf");
 
   oscMsg.add((int)analogRead(32));  // sends readout fron analog pin (integer)
 
