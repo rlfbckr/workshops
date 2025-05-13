@@ -1,7 +1,5 @@
 #include <WiFi.h>
 #include <WiFiMulti.h>
-#include <HTTPClient.h>
-#include <HTTPUpdate.h>
 #include "AsyncUDP.h"
 #include <Chrono.h>
 #include <OSCBundle.h>
