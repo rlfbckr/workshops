@@ -3,7 +3,7 @@
 
 ![openscad example](materials/openscad_example.png)
 
-A two eveing introduction into generative and parametric design for digital fabrication with the code-based 3D modelling software **openSCAD** - *The Programmers Solid 3D CAD Modeller* ( [openscad.org](https://openscad.org) ). The workshop offers a fundamental introduction into the concepts of openSCAD, basic ideas of parametric design, constructive solid geometry and suggests basic use cases for producing simple parts for machines and installations (e.g. pulley, motor holders, connectors, hubs, clips etc).
+A two evening introduction into generative and parametric design for digital fabrication with the code-based 3D modelling software **openSCAD** - *The Programmers Solid 3D CAD Modeller* ( [openscad.org](https://openscad.org) ). The workshop offers a fundamental introduction into the concepts of openSCAD, basic ideas of parametric design, constructive solid geometry and suggests basic use cases for producing simple parts for machines and installations (e.g. pulley, motor holders, connectors, hubs, clips etc).
 
 
 - **Date:** Monday + Tuesday **2025-05-19 + 20** / **18:00** - **21:00**
