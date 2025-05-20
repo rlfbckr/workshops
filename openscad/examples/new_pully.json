@@ -1,0 +1,12 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "$fn": "100",
+            "hole_diameter": "5",
+            "pully_height": "15",
+            "pully_inner_diameter": "30",
+            "pully_wall_width": "2"
+        }
+    }
+}
