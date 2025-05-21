@@ -22,7 +22,8 @@ difference() {
             cylinder(h=pulley_wall_thickness,r=(pulley_outer_diameter/2)+pulley_wall_height,center=true);
     }
 //  axis_profile_round();
-    axis_profile_28BYJ();
+   // axis_profile_28BYJ();
+   cylinder(r=3/2,h=100,center=true);
 } 
 
 module axis_profile_round() {
