@@ -1,4 +1,4 @@
-# Desiging PCBs for Artists and Designers with KiCAD
+# Designing PCBs for artists and designers with KiCAD
 
 This is an introduction to KiCad spanning two evenings. Together, we will design a basic microcontroller board around an ATtiny microcontroller. The workshop will cover all the steps involved, from creating the schematic and designing the board to preparing it for fabrication.
 
