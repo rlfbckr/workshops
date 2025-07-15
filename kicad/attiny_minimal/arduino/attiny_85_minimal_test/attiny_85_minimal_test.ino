@@ -1,6 +1,3 @@
-
-
-
 /*
   Borad Configuration
   Board: ATtiny Microconstroller -> ATtiny 25/45/85
