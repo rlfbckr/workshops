@@ -11,3 +11,4 @@ This is an introduction to KiCAD spanning two evenings. Together, we will design
 ## Additonal Resources
 - [Introduction](https://docs.google.com/presentation/d/1FQOJmnPphsIvtIlYlx94JYpmJ64v6YoRFoZGHLRAc9c/edit?slide=id.p#slide=id.p) 
 - [6 Horribly Common PCB Design Mistakes](https://www.youtube.com/watch?v=Z9nycymUd-I)
+- [PCB Batch Miro Boards](https://miro.com/app/board/uXjVJfeq8kw=/)
