@@ -1,0 +1,4 @@
+constallation test,0,-1000,-1000,-1000,-1000
+constallation test,1,-1000,-1000,-1000,-5276
+constallation test,3,-8291,-5862,-1000,-1000
+constallation test,2,-1000,-1000,-5862,-5276
