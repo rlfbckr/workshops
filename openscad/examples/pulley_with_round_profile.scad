@@ -5,10 +5,10 @@ use <helper.scad>
   ralf baecker 2020
 */
 
-inner_height = 30;
-inner_radius = 20;
+inner_height = 40;
+inner_radius = 100;
 wall_height = 3;
-wall_thickness = 2;
+wall_thickness = 6;
 fillet = 1; // 1= with fillet | 0 = no fillet
 
 
